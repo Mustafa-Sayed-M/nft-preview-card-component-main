@@ -1,6 +1,8 @@
 # Frontend Mentor - NFT preview card component
 
-![Design preview for the NFT preview card component coding challenge](./design/desktop-preview.jpg)
+<a href="https://mustafa-sayed-m.github.io/nft-preview-card-component-main/">
+  <img src="./design/desktop-preview.jpg" alt="any" />
+</a>
 
 ## Welcome! 👋
 
